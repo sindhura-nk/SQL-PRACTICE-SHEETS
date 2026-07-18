@@ -1,0 +1,49 @@
+-- THIS IS A COMMENT
+/* multiple
+line comments
+Create a database employee
+use that database
+
+sql is case insensitive. capital letters and small letters
+will be treated in the same way.
+ex: employee or EMPLOYEE or Employee
+*/
+
+-- create a database. Execute only once.
+
+
+-- Activate that database/use the database
+
+
+-- create a table inside this employee database
+-- mention the column details inside table name
+-- column_name datatype
+
+
+/*  look at this table
+syntax: select * from emp_data;
+* means- all. fetch all the data
+*/
+
+
+-- insert data in the emp_data table
+
+
+-- to view data
+
+
+-- truncate the table :
+-- remove all the data from the table. but it will keep the table strucure for you
+
+
+-- to view the contents/structure
+
+
+-- drop the table:
+-- drop is going to delete/erase the complete table contents,structure
+
+
+-- to view the contents/structure
+
+-- drop the database. currently am using this database.
+-- switch to another database and then we try to delete(switching databases takes time)
